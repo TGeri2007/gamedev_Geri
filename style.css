@@ -35,6 +35,8 @@ label{
 }
 .urlap{
     background-color: grey;
+    border-radius: 10%;
+    border: solid black 4px;
 }
 img{
     width: 100%;
@@ -67,9 +69,8 @@ li{
 }
 .opciok{
     width: 95%;
-    margin: auto;
-    border-radius: 10%;
-    border: black solid 3px;
+    margin: auto
+
     
 }
 .col-lg-4{
