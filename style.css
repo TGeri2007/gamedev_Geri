@@ -67,7 +67,10 @@ li{
 }
 .opciok{
     width: 95%;
-    margin: auto
+    margin: auto;
+    border-radius: 10%;
+    border: black solid 3px;
+    
 }
 .col-lg-4{
     padding: 10px;
