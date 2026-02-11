@@ -88,7 +88,7 @@ button.preset:focus {
 #canon_options{
     display: block;
 }
-.collapse{
+.card, .card-body{
     background-color: grey;
 }
 
