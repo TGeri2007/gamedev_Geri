@@ -1,6 +1,6 @@
 body{
 /*    background-color: #23222a;*/
-    background-image: url("background.png");
+    background-image: url("/Assets/Pics/background.png");
     image-rendering: pixelated;
     color: #ffffff;
     font-family: "Press Start 2P";
@@ -19,7 +19,7 @@ label{
     margin-left: 4rem;
 }
 .kuldes{
-    background-image: url("ButtonNemBenyomva.png");
+    background-image: url("/Assets/Pics/ButtonNemBenyomva.png");
     background-repeat: no-repeat;
     background-size: 200px 100px;
     background-position: center;
@@ -31,7 +31,7 @@ label{
     margin: 1rem auto;
 }
 .kuldes:active{
-    background-image: url("ButtonBenyomva.png");
+    background-image: url("/Assets/Pics/ButtonBenyomva.png");
 }
 .urlap{
     background-color: grey;
@@ -90,9 +90,11 @@ button.preset:focus {
 }
 .card, .card-body{
     background-color: grey;
+    border: none;
 }
 
 button{
     background-color: grey;
     padding-bottom: 10px;
 }
+
